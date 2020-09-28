@@ -1240,6 +1240,7 @@ _TGL	_CONN:PC_IRN_	ⓃpC&Irn:		12310210	0
 //したな
 _TGL	_CONN:PC_STA_	아픈ⓃpC&Sta:	있었구나	12310210	0	//中学の時はなかなかすごい子たちがいたな。
 _TGL	_CONN:PC_STA_	하고 싶은ⓃpC&Sta:	했군	12310210	0	//邪魔したな。喧嘩したな。話したな。
+_TGL	_CONN:PC_STA_	라고 싶은ⓃpC&Sta:	랐군	12310210	0	//驚いたな
 _TGL	_CONN:PC_STA_	ⓃpC&Sta:		12310210	0
 //だったな
 _TGL	_CONN:PC_TNA_	다ⓃpC&TNa:	구나	12310210	0
@@ -1831,6 +1832,7 @@ _TGL	_CONN:P6_NEJ_	른 것Ⓝp6&Nej:	르네요	12310810	0	//違うよね
 _TGL	_CONN:P6_NEJ_	은 것Ⓝp6&Nej:	네요	12310810	0	//なんか名前呼び照れるね。
 _TGL	_CONN:P6_NEJ_	한 것Ⓝp6&Nej:	하네요	12310810	0	//困るね。
 _TGL	_CONN:P6_NEJ_	먹을 것Ⓝp6&Nej:	먹네요	12310810	0	//食べるね。死ぬね。
+_TGL	_CONN:P6_NEJ_	해 것Ⓝp6&Nej:	하네요	12310810	0	//みんなと先に始めてるね
 _TGL	_CONN:P6_NEJ_	Ⓝp6&Nej:		12310810	0
 
 //원형,과거형 + わね
