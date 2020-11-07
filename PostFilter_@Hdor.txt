@@ -1324,6 +1324,7 @@ _TGL	_CONN:PC_NME_	것ⓃpC&NMe:	거네	12310210	0	//デートも終わりなの
 _TGL	_CONN:PC_NME_	된ⓃpC&NMe:	되는거네	12310210	0	//首相やめてもダメなのね～。
 _TGL	_CONN:PC_NME_	한ⓃpC&NMe:	한거네	12310210	0	//夜ってこんなに静かなのね。
 _TGL	_CONN:PC_NME_	같다 것이군요ⓃpC&NMe:	같은거네	12310210	0	//さっさと対応した方が良さそうだものね
+_TGL	_CONN:PC_NME_	는ⓃpC&NMe:	는거네	12310210	0	//好きなのね
 _TGL	_CONN:PC_NME_	ⓃpC&NMe:		12310210	0
 //なんでね
 //腕っ節のほうはからっきしなんでね
@@ -1407,7 +1408,7 @@ _TGL	_CONN:PC_DWY_	어ⓃpC&Dwy:	어요	12310210	0	//幸運だったわよ。貧
 _TGL	_CONN:PC_DWY_	ⓃpC&Dwy:		12310210	0
 //だろうよ
 _TGL	_CONN:PC_DRY_	 것이다ⓃpC&Dry:	거예요	12310210	0	//奇想天外だろうよ。
-_TGL	_CONN:PC_DRY_	 ⓃpC&Dry:		12310210	0
+_TGL	_CONN:PC_DRY_	ⓃpC&Dry:		12310210	0
 //ないでよ
 _TGL	_CONN:PC_NDE_	않고ⓃpC&NDe:	말아요	12310210	0	//無視しないでよ。
 _TGL	_CONN:PC_NDE_	말아ⓃpC&NDe:	말아요	12310210	0	//その気にならないでよ。
