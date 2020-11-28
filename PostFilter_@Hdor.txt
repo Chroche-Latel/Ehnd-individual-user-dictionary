@@ -1662,6 +1662,7 @@ _TGL	_CONN:P7_KUHAMO_	지도Ⓝp7&Kuhamo:	게도 	12310710	0
 _TGL	_CONN:P7_KUHAMO_	Ⓝp7&Kuhamo:	 	12310710	0
 
 //ないでほしい
+_TGL	_CONN:P7_NHI_	안 된다Ⓝp7&Nhi:보지 않	되지 않았	12310710	0	//急にしおらしくならないでほしい
 _TGL	_CONN:P7_NHI_	는?다Ⓝp7&Nhi:보지 않		12310710	1	//しないで欲しいわね。ビックリさせないで欲しいな
 _TGL	_CONN:P7_NHI_	Ⓝp7&Nhi:		12310710	0
 
