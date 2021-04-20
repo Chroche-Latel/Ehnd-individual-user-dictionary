@@ -1657,6 +1657,7 @@ _TGL	_CONN:P7_INA_	싼데Ⓝp7&INa:	싸구나	12310710	0	//高いな
 _TGL	_CONN:P7_INA_	픈데Ⓝp7&INa:	프구나	12310710	0	//哀しいな。
 _TGL	_CONN:P7_INA_	한데Ⓝp7&INa:	하구나	12310710	0	//凄いな
 _TGL	_CONN:P7_INA_	진데Ⓝp7&INa:	지는구나	12310710	0	//めぼしいな
+_TGL	_CONN:P7_INA_	된데Ⓝp7&INa:	됐구나	12310710	0	//ここまで話せばもういいな？
 _TGL	_CONN:P7_INA_	Ⓝp7&INa:		12310710	0
 
 //・く + [はも] + 
