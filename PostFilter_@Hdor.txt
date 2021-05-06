@@ -1270,6 +1270,7 @@ _TGL	_CONN:PC_DNA_	야ⓃpC&DNa:	구나	12310210	0	//現実的だよな。
 _TGL	_CONN:PC_DNA_	있어ⓃpC&DNa:	있구나	12310210	0	//あるんだよな。
 _TGL	_CONN:PC_DNA_	해ⓃpC&DNa:	하구나	12310210	0	//お礼すべきだよな。頑固だよな。
 _TGL	_CONN:PC_DNA_	어ⓃpC&DNa:	구나	12310210	0	//心配されるの嫌いだよな
+_TGL	_CONN:PC_DNA_	인ⓃpC&DNa:	는구나	12310210	0	//割と納得がいくんだよな
 //ないな
 _TGL	_CONN:PC_DNA_	까운데ⓃpC&DNa:	깝구나	12310210	0	//もったいないよな。
 _TGL	_CONN:PC_DNA_	없는데ⓃpC&DNa:	없구나	12310210	0	//味方であろうはずもないな。カリスマ性がないよな。
