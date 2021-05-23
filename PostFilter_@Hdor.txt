@@ -1335,6 +1335,7 @@ _TGL	_CONN:PC_NME_	것ⓃpC&NMe:	거네	12310210	0	//デートも終わりなの
 _TGL	_CONN:PC_NME_	된ⓃpC&NMe:	되는거네	12310210	0	//首相やめてもダメなのね～。
 _TGL	_CONN:PC_NME_	한ⓃpC&NMe:	한거네	12310210	0	//夜ってこんなに静かなのね。
 _TGL	_CONN:PC_NME_	같다 것이군요ⓃpC&NMe:	같은거네	12310210	0	//さっさと対応した方が良さそうだものね
+_TGL	_CONN:PC_NME_	합니다 것이군요ⓃpC&NMe:	한거네	12310210	0	//弱いのですものね
 _TGL	_CONN:PC_NME_	는ⓃpC&NMe:	는거네	12310210	0	//好きなのね
 _TGL	_CONN:PC_NME_	ⓃpC&NMe:		12310210	0
 //なんでね
